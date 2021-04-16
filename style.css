@@ -1,0 +1,23 @@
+/*
+ *Name: Benjamin Mitchell
+ *UnityID: btmitch2
+ *Date: 04/16/21
+ *Assignment: Webpage Independent Assignment
+ *Description: Webpage describing myself with css and html
+ */
+ 
+p {
+    font-family: Arial;
+	font-size: 18px;
+	color: #AACCFF
+}
+
+.table-border {
+    border: 3px solid #FFAAAA;
+}
+
+#photo-edit {
+    max-width: 200px;
+	max-height: 250px;
+	border: 2px outset #00FF00;
+}
